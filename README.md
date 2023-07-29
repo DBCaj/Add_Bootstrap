@@ -3,13 +3,9 @@ Important Files:
 
 
 
-resources/views/components/bootstrap-styles.blade.php
+resources/views/components/*
 
-resources/views/components/bootstrap-scripts.blade.php
-
-resources/views/layouts/add.blade.php
-
-resources/views/layouts/main.blade.php
+resources/views/layouts/*
 
 database/seeders/DatabaseSeeder.php
 
